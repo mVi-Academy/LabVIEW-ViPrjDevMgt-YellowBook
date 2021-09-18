@@ -1,5 +1,5 @@
 # YellowBook
-《LabVIEW虚拟仪器项目开发与管理》（简称：LabVIEW黄皮书）的配套源码和实例图像</br>
+《LabVIEW虚拟仪器项目开发与管理》（简称：LabVIEW黄皮书）的配套源码</br>
 书名：《LabVIEW虚拟仪器项目开发与管理》</br>
 作者：杨高科</br>
 ISBN: 978-7-111-36804-5</br>
