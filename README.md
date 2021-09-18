@@ -33,9 +33,10 @@ ISBN: 978-7-111-36804-5</br>
     2.  本书配套光盘中的文件，仅供学习和练习时使用，未经许可不能用于任何商业行为。
     3.  LabVIEW软件归NI公司所有，本书不提供该软件的安装程序，但读者可以从NI官方网站下载评估版自行安装。
 
-四、技术支持
+四、技术支持：
 
-    1. Email：gaoke.yang@hotmail.com</br>
-    2. QQ交流群：186796050</br>
-    4. 源码下载：https://github.com/mVi-Academy</br>
+    1. Email：gaoke.yang@hotmail.com
+    2. QQ交流群：186796050
+    4. 源码下载：https://github.com/mVi-Academy
+
    
