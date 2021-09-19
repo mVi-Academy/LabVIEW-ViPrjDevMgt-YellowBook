@@ -1,5 +1,5 @@
 # LabVIEW YellowBook Source Code
-## "LabVIEW黄皮书" 配套源码</br>
+__"LabVIEW黄皮书" 配套源码__</br>
 
 > 书名：《LabVIEW虚拟仪器项目开发与管理》——被读者昵称为"LabVIEW黄皮书"
 > 作者：杨高科</br>
